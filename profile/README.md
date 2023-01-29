@@ -37,6 +37,15 @@ This organization includes simple tools for working with text.
 ![GitHub repo size](https://img.shields.io/github/repo-size/Text-extend-tools/iceb-sys)
 ![GitHub all releases](https://img.shields.io/github/downloads/Text-extend-tools/iceb-sys/total)
 ![GitHub](https://img.shields.io/github/license/Text-extend-tools/iceb-sys)
+* [koi8r](https://github.com/Text-extend-tools/koi8r):
+![GitHub repo size](https://img.shields.io/github/repo-size/Text-extend-tools/koi8r)
+![GitHub](https://img.shields.io/github/license/Text-extend-tools/koi8r)
+* [libmimetex](https://github.com/Text-extend-tools/libmimetex):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Text-extend-tools/libmimetex)
+![GitHub Release Date](https://img.shields.io/github/release-date/Text-extend-tools/libmimetex)
+![GitHub repo size](https://img.shields.io/github/repo-size/Text-extend-tools/libmimetex)
+![GitHub all releases](https://img.shields.io/github/downloads/Text-extend-tools/libmimetex/total)
+![GitHub](https://img.shields.io/github/license/Text-extend-tools/libmimetex)
 * [ngramtool](https://github.com/Text-extend-tools/ngramtool):
 ![GitHub repo size](https://img.shields.io/github/repo-size/Text-extend-tools/ngramtool)
 * [prawda](https://github.com/Text-extend-tools/prawda):
@@ -73,3 +82,7 @@ This organization includes simple tools for working with text.
 * [tspell](https://github.com/Text-extend-tools/tspell):
 ![GitHub repo size](https://img.shields.io/github/repo-size/Text-extend-tools/tspell)
 ![GitHub](https://img.shields.io/github/license/Text-extend-tools/tspell)
+* [utf8](https://github.com/Text-extend-tools/utf8):
+![GitHub repo size](https://img.shields.io/github/repo-size/Text-extend-tools/utf8)
+* [xtf8](https://github.com/Text-extend-tools/xtf8):
+![GitHub repo size](https://img.shields.io/github/repo-size/Text-extend-tools/xtf8)
